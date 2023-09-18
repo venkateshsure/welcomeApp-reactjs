@@ -1,0 +1,31 @@
+/* Write your CSS here */
+
+.bg-con {
+  background-color: #1e293b;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.head {
+  color: #f0bb03;
+  font-size: 30px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+
+.para {
+  color: #ffffff;
+  font-size: 25px;
+  font-family: 'Roboto';
+}
+
+.but {
+  background-color: #ffffff;
+  border: 2px solid #ffffff;
+  border-radius: 5px;
+  padding: 5px;
+}
